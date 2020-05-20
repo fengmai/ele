@@ -1,0 +1,13 @@
+{
+    "name": "windspeed.top/ceshi",
+    "description": "做一个测试包",
+    "type": "library",
+    "license": "Apache",
+    "minimum-stability": "dev",
+    "require": {},
+       "autoload": {
+        "psr-4": {
+ 		"dwd\\ele\\": "src/ele"
+        }
+    } 
+}
